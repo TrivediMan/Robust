@@ -8,6 +8,16 @@ A machine learning web app that estimates house prices (in ₹) from property de
 
 ---
 
+---
+
+
+# 🎥 Project Video
+
+
+🔗 **[▶️ Watch Project Video](https://drive.google.com/file/d/1_Zy53rzxQTvOXPQFLjF6HbxQZU7Ce0v7/view?usp=drive_link)**
+
+---
+
 ## ✨ Features
 
 - Interactive form to enter property details and get an instant price estimate
