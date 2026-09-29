@@ -771,7 +771,3 @@ st.caption(
     "🏠 House Price Prediction | "
     "Machine Learning Regression Application"
 )
-
-# -----
-
-@----
